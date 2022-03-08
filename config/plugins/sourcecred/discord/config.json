@@ -9,7 +9,7 @@
     "propsChannels": [],
     "reactionWeightConfig": {
       "applyAveraging": false,
-      "defaultWeight": 1,
+      "defaultWeight": 10,
       "weights": {}
     },
     "roleWeightConfig": {
