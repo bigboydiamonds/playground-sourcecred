@@ -2,24 +2,5 @@
   {
     "type": "sourcecred/project",
     "version": "0.2.1"
-  },
-  {
-    "title": "Overlay Radio Attendance",
-    "timestampIso": "2020-03-04T22:01:57.733Z",
-    "weight": {
-      "incomplete": 0,
-      "complete": 100
-    },
-    "completed": true,
-    "contributions": {
-      "entries": [
-        {
-          "title": "Test Contributions",
-          "weight": 100,
-          "timestampIso": "2020-01-01T22:01:57.700Z",
-          "contributors": ["https://discordapp.com/users/631129042795626498"]
-        }
-      ]
-    }
   }
 ]
